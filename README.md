@@ -7,7 +7,7 @@ Please note that the final descision is always to be made by the Golem Factory, 
 
 ## How to start a proposal
 
-Please submit a PR to this repository with the gdp-template filled out and place it inside the gpds directory, so the looks like the following scheme: `./gdps/gdp-draft_title`
+Please submit a PR to this repository with the gdp-template filled out and place it inside the gpds directory, so the looks like the following scheme: `./gdps/gdp-draft_title/gdp-title.md`
 
 ### What happens after a PR is made?
 
