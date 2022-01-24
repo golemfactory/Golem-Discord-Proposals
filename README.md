@@ -7,16 +7,8 @@ Please note that the final descision is always to be made by the Golem Factory, 
 
 ## How to start a proposal
 
-Please submit a PR to this repository with the gdp-template filled out and place it inside the gpds directory, so the looks like the following scheme: `./gdps/gdp-draft_title/gdp-title.md`
+Please submit a PR to the proposals directory with your proposal to get started.
 
-### What happens after a PR is made?
+### What happens after a proposal has been approved?
 
-New PR's will be moved into the Draft project kaban until the template is valid.
-Once the template is filled out correctly, then the submission will move into a valid state, and from there discussion should take place.
-This discussion should be about if this submission is relevant and brings any value to the Discord.
-
-### Approvals / Rejections
-
-When a submission enters a valid state, it is sent to the #GDP-votes channel over on the Discord. Only Discord members with the role Community Warriors are able to vote on the submission, and the vote will run for 7 days.
-When a submission is a approved, the Golem team will create a repository for the submission and development can be started.
-If a submission is rejected, then nothing happens.
+Golem Factory will create a repository for the bot and the work can start.
