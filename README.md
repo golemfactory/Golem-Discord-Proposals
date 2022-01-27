@@ -7,7 +7,7 @@ Please note that the final descision is always to be made by the Golem Factory, 
 
 ## How to start a proposal
 
-Fork the repository and use the template as a base for your proposal. When done submit a PR to the repository and discussion can start taking place.
+Fork the repository and use the template as a base for your proposal. When done submit a PR to the repository with the proposal placed inside the proposals directory. Now discussion can start taking place.
 
 ### What happens after a proposal has been approved?
 
