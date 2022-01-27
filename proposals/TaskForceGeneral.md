@@ -5,6 +5,6 @@ description: Purpose of this bot is to act like a google search engine but only 
              Databsae where bot will pull questions/answers would be filled over time, whenever a question with no answers occurres. (from start there will be 50/100 questions)
 requirements read: yes 
 author: Aldin (@adnssc) <aldin.sisic@protonmail.com>
-repo link: none yet
+repo link: https://github.com/adnssc/TaskForceGeneral
 status: proposal
 discord invitation: https://discord.gg/Gtfkmmny92
